@@ -1,5 +1,22 @@
-# Hello, I'm Anchal Gupta 👋  
-![Typewriter Effect](./hello-anchal-gupta.gif)
+<h1 align="center">
+  <span id="typewriter"></span>
+</h1>
+
+<script>
+  const text = "Hello, I'm Anchal Gupta";
+  const typewriter = document.getElementById('typewriter');
+  let i = 0;
+
+  function type() {
+    if (i < text.length) {
+      typewriter.innerHTML += text.charAt(i);
+      i++;
+      setTimeout(type, 100); // Adjust speed here
+    }
+  }
+  type();
+</script>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anchal2611&color=blue)
 ![Followers](https://img.shields.io/github/followers/anchal2611?label=Followers&style=social)
