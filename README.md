@@ -1,4 +1,5 @@
-# Hi there, I'm Anchal! 👋
+# Hello, I'm Anchal Gupta 👋  
+![Typewriter Effect](./hello-anchal-gupta.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anchal2611&color=blue)
 ![Followers](https://img.shields.io/github/followers/anchal2611?label=Followers&style=social)
