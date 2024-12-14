@@ -1,21 +1,4 @@
-<h1 align="center">
-  <span id="typewriter"></span>
-</h1>
-
-<script>
-  const text = "Hello, I'm Anchal Gupta";
-  const typewriter = document.getElementById('typewriter');
-  let i = 0;
-
-  function type() {
-    if (i < text.length) {
-      typewriter.innerHTML += text.charAt(i);
-      i++;
-      setTimeout(type, 100); // Adjust speed here
-    }
-  }
-  type();
-</script>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70560&width=435&lines=Hello%2C+I+am+Anchal+Gupta!)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anchal2611&color=blue)
