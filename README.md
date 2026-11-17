@@ -9,13 +9,7 @@
 
 ## 🚀 About Me
 
-- 👩‍💻 **First-Year CSE Student** at IGDTUW.
-- 🌱 Currently improving **UI/UX design** and **frontend development** skills.
-- 💡 Interested in **FinTech**, **EdTech**, and **creative design**.
-- 🏆 Recent Achievements:
-  - **Rotaractor of the Month**
-  - **1st Runner-up** at Aakriti TechFest with **KautilyaPay**.
-- 💬 Ask me about: **HTML**, **CSS**, **Python**, and **Canva designs**.
+
 
 ---
 
